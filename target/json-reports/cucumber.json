@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8092880000,
+              "duration": 9459359300,
               "status": "passed"
             },
             "line": 4,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-11-13T16:58:01.052Z",
+        "start_timestamp": "2021-11-13T19:13:41.600Z",
         "line": 6,
         "name": "1",
         "description": "",
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10101587300,
+              "duration": 10061277900,
               "status": "passed"
             },
             "line": 7,
@@ -46,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 357882800,
+              "duration": 634382300,
               "status": "passed"
             },
             "line": 8,
@@ -64,7 +64,7 @@
           },
           {
             "result": {
-              "duration": 145481600,
+              "duration": 181734700,
               "status": "passed"
             },
             "line": 9,
@@ -82,13 +82,13 @@
           },
           {
             "result": {
-              "duration": 383968100,
+              "duration": 2423887900,
               "status": "passed"
             },
             "line": 10,
-            "name": "sayfayi kapatir",
+            "name": "close page",
             "match": {
-              "location": "stepdefinitions.US_01Stepdefinition.sayfayiKapatir()"
+              "location": "stepdefinitions.US_01Stepdefinition.closePage()"
             },
             "keyword": "And "
           }
@@ -108,7 +108,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5169543500,
+              "duration": 8577274100,
               "status": "passed"
             },
             "line": 4,
@@ -121,7 +121,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-11-13T16:58:20.536Z",
+        "start_timestamp": "2021-11-13T19:14:04.623Z",
         "line": 12,
         "name": "2",
         "description": "",
@@ -131,7 +131,7 @@
         "steps": [
           {
             "result": {
-              "duration": 254466700,
+              "duration": 447853600,
               "status": "passed"
             },
             "line": 13,
@@ -149,7 +149,7 @@
           },
           {
             "result": {
-              "duration": 204993100,
+              "duration": 194261500,
               "status": "passed"
             },
             "line": 14,
@@ -167,7 +167,7 @@
           },
           {
             "result": {
-              "duration": 109215300,
+              "duration": 86017600,
               "status": "passed"
             },
             "line": 15,
@@ -189,13 +189,13 @@
           },
           {
             "result": {
-              "duration": 231585700,
+              "duration": 229723000,
               "status": "passed"
             },
             "line": 16,
-            "name": "sayfayi kapatir",
+            "name": "close page",
             "match": {
-              "location": "stepdefinitions.US_01Stepdefinition.sayfayiKapatir()"
+              "location": "stepdefinitions.US_01Stepdefinition.closePage()"
             },
             "keyword": "And "
           }
@@ -215,7 +215,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4849933900,
+              "duration": 8452448000,
               "status": "passed"
             },
             "line": 4,
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-11-13T16:58:26.528Z",
+        "start_timestamp": "2021-11-13T19:14:14.194Z",
         "line": 18,
         "name": "3",
         "description": "",
@@ -238,7 +238,7 @@
         "steps": [
           {
             "result": {
-              "duration": 252688600,
+              "duration": 368044900,
               "status": "passed"
             },
             "line": 19,
@@ -256,7 +256,7 @@
           },
           {
             "result": {
-              "duration": 146588500,
+              "duration": 146178800,
               "status": "passed"
             },
             "line": 20,
@@ -274,7 +274,7 @@
           },
           {
             "result": {
-              "duration": 54985800,
+              "duration": 52001600,
               "status": "passed"
             },
             "line": 21,
@@ -292,13 +292,13 @@
           },
           {
             "result": {
-              "duration": 197811800,
+              "duration": 317489400,
               "status": "passed"
             },
             "line": 22,
-            "name": "sayfayi kapatir",
+            "name": "close page",
             "match": {
-              "location": "stepdefinitions.US_01Stepdefinition.sayfayiKapatir()"
+              "location": "stepdefinitions.US_01Stepdefinition.closePage()"
             },
             "keyword": "And "
           }
@@ -318,7 +318,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4318498800,
+              "duration": 7687888200,
               "status": "passed"
             },
             "line": 4,
@@ -331,7 +331,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-11-13T16:58:32.048Z",
+        "start_timestamp": "2021-11-13T19:14:23.550Z",
         "line": 23,
         "name": "4",
         "description": "",
@@ -341,7 +341,7 @@
         "steps": [
           {
             "result": {
-              "duration": 243140600,
+              "duration": 415692500,
               "status": "passed"
             },
             "line": 24,
@@ -353,7 +353,7 @@
           },
           {
             "result": {
-              "duration": 5249933000,
+              "duration": 5226468800,
               "status": "passed"
             },
             "line": 25,
@@ -365,7 +365,7 @@
           },
           {
             "result": {
-              "duration": 60700000,
+              "duration": 47075600,
               "status": "passed"
             },
             "line": 26,
@@ -383,13 +383,13 @@
           },
           {
             "result": {
-              "duration": 268541800,
+              "duration": 292635200,
               "status": "passed"
             },
             "line": 27,
-            "name": "sayfayi kapatir",
+            "name": "close page",
             "match": {
-              "location": "stepdefinitions.US_01Stepdefinition.sayfayiKapatir()"
+              "location": "stepdefinitions.US_01Stepdefinition.closePage()"
             },
             "keyword": "And "
           }
@@ -409,7 +409,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4948400000,
+              "duration": 7038016000,
               "status": "passed"
             },
             "line": 4,
@@ -422,7 +422,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-11-13T16:58:42.226Z",
+        "start_timestamp": "2021-11-13T19:14:37.242Z",
         "line": 29,
         "name": "5",
         "description": "",
@@ -432,7 +432,7 @@
         "steps": [
           {
             "result": {
-              "duration": 264758800,
+              "duration": 548456600,
               "status": "passed"
             },
             "line": 30,
@@ -450,7 +450,7 @@
           },
           {
             "result": {
-              "duration": 374991000,
+              "duration": 358440200,
               "status": "passed"
             },
             "line": 31,
@@ -468,7 +468,7 @@
           },
           {
             "result": {
-              "duration": 10088389300,
+              "duration": 10073332400,
               "status": "passed"
             },
             "line": 32,
@@ -480,13 +480,13 @@
           },
           {
             "result": {
-              "duration": 523076900,
+              "duration": 608768500,
               "status": "passed"
             },
             "line": 33,
-            "name": "sayfayi kapatir",
+            "name": "close page",
             "match": {
-              "location": "stepdefinitions.US_01Stepdefinition.sayfayiKapatir()"
+              "location": "stepdefinitions.US_01Stepdefinition.closePage()"
             },
             "keyword": "And "
           }
@@ -506,7 +506,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5289963200,
+              "duration": 10928106300,
               "status": "passed"
             },
             "line": 4,
@@ -519,7 +519,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-11-13T16:58:58.443Z",
+        "start_timestamp": "2021-11-13T19:14:55.885Z",
         "line": 35,
         "name": "6",
         "description": "",
@@ -529,7 +529,7 @@
         "steps": [
           {
             "result": {
-              "duration": 551329900,
+              "duration": 548718200,
               "status": "passed"
             },
             "line": 36,
@@ -551,7 +551,7 @@
           },
           {
             "result": {
-              "duration": 332288500,
+              "duration": 335252700,
               "status": "passed"
             },
             "line": 37,
@@ -569,7 +569,7 @@
           },
           {
             "result": {
-              "duration": 100616300,
+              "duration": 102004200,
               "status": "passed"
             },
             "line": 38,
@@ -587,13 +587,13 @@
           },
           {
             "result": {
-              "duration": 212330800,
+              "duration": 373212900,
               "status": "passed"
             },
             "line": 39,
-            "name": "sayfayi kapatir",
+            "name": "close page",
             "match": {
-              "location": "stepdefinitions.US_01Stepdefinition.sayfayiKapatir()"
+              "location": "stepdefinitions.US_01Stepdefinition.closePage()"
             },
             "keyword": "And "
           }

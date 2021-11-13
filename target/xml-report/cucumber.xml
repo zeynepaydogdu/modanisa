@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="64.675">
-    <testcase classname="Todomvc_01" name="1" time="19.436">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="87.572">
+    <testcase classname="Todomvc_01" name="1" time="22.991">
         <system-out>
             <![CDATA[Given Empty ToDo list.......................................................passed
 Then I should see empty todo list...........................................passed
 When I write "buy some milk" to <text box> and press <enter>................passed
 Then I should see "buy some milk" item in Todo list.........................passed
-And sayfayi kapatir.........................................................passed
+And close page..............................................................passed
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Todomvc_01" name="2" time="5.975">
+    <testcase classname="Todomvc_01" name="2" time="9.554">
         <system-out>
             <![CDATA[Given Empty ToDo list.......................................................passed
 Given ToDo list with "buy some milk" item...................................passed
 When I write "enjoy the assignment" to <text box> and press <enter>.........passed
 Then I should see "enjoy the assignment" item insterted to ToDo list below "buy some milk" item.passed
-And sayfayi kapatir.........................................................passed
+And close page..............................................................passed
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Todomvc_01" name="3" time="5.52">
+    <testcase classname="Todomvc_01" name="3" time="9.34">
         <system-out>
             <![CDATA[Given Empty ToDo list.......................................................passed
 Given ToDo list with "buy some milk" item...................................passed
 When I click on <checkbox> next to "buy some milk" item.....................passed
 Then I should see "buy some milk" item marked as DONE.......................passed
-And sayfayi kapatir.........................................................passed
+And close page..............................................................passed
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Todomvc_01" name="4" time="10.178">
+    <testcase classname="Todomvc_01" name="4" time="13.676">
         <system-out>
             <![CDATA[Given Empty ToDo list.......................................................passed
 Given todo list with marked item............................................passed
 When I click on <check box> next to item....................................passed
 Then I should see "buy some milk" item marked as UNDONE.....................passed
-And sayfayi kapatir.........................................................passed
+And close page..............................................................passed
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Todomvc_01" name="5" time="16.2">
+    <testcase classname="Todomvc_01" name="5" time="18.627">
         <system-out>
             <![CDATA[Given Empty ToDo list.......................................................passed
 Given ToDo list with "rest for a while" item................................passed
 When I click on <delete button> next to "rest for a while" item.............passed
 Then List should be empty...................................................passed
-And sayfayi kapatir.........................................................passed
+And close page..............................................................passed
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Todomvc_01" name="6" time="6.488">
+    <testcase classname="Todomvc_01" name="6" time="12.288">
         <system-out>
             <![CDATA[Given Empty ToDo list.......................................................passed
 Given ToDo list with "rest for a while" and "drink water" item in order.....passed
 When I click on <delete button> next to "rest for a while"item..............passed
 Then I should see "drink water" item in ToDo list...........................passed
-And sayfayi kapatir.........................................................passed
+And close page..............................................................passed
 ]]>
         </system-out>
     </testcase>
